@@ -24,7 +24,7 @@ Make sure you have Python 3.x installed.
 
 Clone this repository:
 
-git clone <your-repo-url>
+git clone <(https://github.com/Barros111/Task-Tracker-V1.git)>
 
 
 Navigate to the project folder and run:
